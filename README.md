@@ -1,8 +1,8 @@
 # Qajar Era Photographs 
-Historical Pictures from [Qajar Dynasty](https://en.wikipedia.org/wiki/Qajar_Iran) in Iran - Album Khaneh Kakh-e-Golestan
+Historical Pictures from [Qajar Dynasty](https://en.wikipedia.org/wiki/Qajar_Iran){:target="_blank"} in Iran - Album Khaneh Kakh-e-Golestan
 These significant collections of Qajar era photographs from the [Golestan Palace](https://en.wikipedia.org/wiki/Golestan_Palace) archives has been released on a Google Drive file by an anonymous user in 2024 and 2025. 
 
-## Learn More about the collection in [this article ](https://www.rferl.org/a/persia-iran-photos-leaked-online-qajar-dynasty/32988343.html)
+## Learn More about the collection in [this article](https://www.rferl.org/a/persia-iran-photos-leaked-online-qajar-dynasty/32988343.html)
 
 ## Pictures: 
    ### [Part 1](https://drive.google.com/drive/folders/1XVE6EGD8kYnR2G8rR_Dc0JKYi9ykA0vg)
